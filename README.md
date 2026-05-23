@@ -46,11 +46,17 @@
   <img src="https://img.shields.io/badge/CTF_Player-blue?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=caiscaw&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiscaw&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiscaw&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiscaw&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
 ## 💭 Philosophy
 
 > *"For some reason, people keep sending me penguins."* — Linus Torvalds
