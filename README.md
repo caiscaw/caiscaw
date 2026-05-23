@@ -11,7 +11,7 @@
   🐍 **Learning Python**  
   🌐 **Studying Networking & Protocols**  
   📚 **Next up: Assembly and C**  
-  🐧 **Linux user (Linux Mint + GNOME)**  
+  🐧 **Linux user (Linux Mint, Arch Linux)**  
 
 ---
 
