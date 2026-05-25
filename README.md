@@ -7,11 +7,10 @@
 🧠 **about me**
 
   🔐 **Cybersecurity Student**  
-  🎯 **Dream: Blue Team at Google**  
+  🎯 **Dream: Blue Team**  
   🐍 **Learning Python**  
   🌐 **Studying Networking & Protocols**  
   📚 **Next up: Assembly and C**  
-  🐧 **Linux user (Linux Mint, Arch Linux)**  
 
 ---
 
